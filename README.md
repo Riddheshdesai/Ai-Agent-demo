@@ -1,4 +1,4 @@
-# AI OS Agent - Premium Desktop Application
+# AI Agent - Premium Desktop Application
 
 A state-of-the-art, premium AI operating system agent interface built with Electron, React, and Tailwind CSS. Featuring a stunning glassmorphic design, smooth animations, and a multi-panel dashboard for managing chats, workflows, and AI models.
 
